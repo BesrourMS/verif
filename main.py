@@ -46,4 +46,4 @@ async def root():
     return {"message": "Welcome to the Web Crawler API. Use the /crawl endpoint to crawl websites."}
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=5011)
+    uvicorn.run(app, host="0.0.0.0", port=8000)

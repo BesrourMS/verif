@@ -1,0 +1,4 @@
+beautifulsoup4==4.13.3
+Crawl4AI==0.4.248
+fastapi==0.115.12
+uvicorn==0.34.0
